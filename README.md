@@ -12,5 +12,5 @@ _Video was recorded back in 2013 and quality of video is very bad (sorry about t
 
 # Development Environment
 
-- MCU used for realization of this project is PIC16F84A and software for them is written in C using (and compiled with) [mikroC] (https://www.mikroe.com/mikroc-pic) environment
+- MCU used for realization of this project is PIC16F84A and software for them is written in C using (and compiled with) [mikroC environment](https://www.mikroe.com/mikroc-pic)
 - PCBs were designed using the [Eagle](https://www.autodesk.com/products/eagle/overview)
