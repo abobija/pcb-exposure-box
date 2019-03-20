@@ -8,6 +8,7 @@ When you set the timer (max 999 seconds) with UP/DOWN buttons and then press but
 # Video presentation
 
 Click [here](https://www.youtube.com/watch?v=MrX0DLpo7UE) to watch short video presentation on YouTube.
+
 _Video was recorded back in 2013 and quality of video is very bad (sorry about that)._
 
 # Development Environment
